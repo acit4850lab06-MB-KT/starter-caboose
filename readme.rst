@@ -14,6 +14,17 @@ specific quote in detail.
 The Viewer controller displays all the quotes on file, by default.
 Each mugshot links to a viewer/quote method call, to display that author's quote.
 
+************
+Group Member
+************
+Mark Batin
+Khang Tran
+
+******************
+Coding Conventions
+******************
+Allman style coding
+Proper CSS (Class for many usage, id for individual
 
 **************
 Intended Usage
