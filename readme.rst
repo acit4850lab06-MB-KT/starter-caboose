@@ -17,7 +17,7 @@ Each mugshot links to a viewer/quote method call, to display that author's quote
 ************
 Group Member
 ************
-Mark Batin
+Mark Batin - Acknowledged
 Khang Tran - Acknowledged 
 
 ******************
