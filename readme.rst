@@ -18,7 +18,7 @@ Each mugshot links to a viewer/quote method call, to display that author's quote
 Group Member
 ************
 Mark Batin - Acknowledged
-Khang Tran
+Khang Tran - Ackowledged
 
 ******************
 Coding Conventions
